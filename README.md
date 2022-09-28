@@ -8,17 +8,9 @@
 
 [Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
 
-[Microsoft Learn - Lerning Path AZ-700](https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
+[Microsoft Learn - Lerning Path AZ-700](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
 
-
-
-
-## How to
-
-[Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
-
-[Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
 
 
