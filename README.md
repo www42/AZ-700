@@ -6,7 +6,7 @@
 
 [Skillpipe](https://skillpipe.com)
 
-[Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 [Microsoft Learn - Lerning Path AZ-700](https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
