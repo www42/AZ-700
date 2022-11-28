@@ -1,14 +1,38 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
-[AZ-700 Labs Step-by-Step](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
+
+
+
+## AZ-700 at Microsoft Learn
+
+Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
+
+
+
+
+
+## AZ-700 Labs
+
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+
+[AZ-700 Labs Instructions](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
 [AZ-700 GitHub Repo](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
 
-[Skillpipe](https://skillpipe.com)
 
-[Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
+---
 
-[Microsoft Learn - Lerning Path AZ-700](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
+[Give Feedback! (Metrics That Matter)](#az-700-designing-and-implementing-microsoft-azure-networking-solutions)
+
+[Claim your Badge! (Microsoft Learn)](#az-700-designing-and-implementing-microsoft-azure-networking-solutions)
+
+---
+
+
 
 
 
@@ -32,16 +56,23 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://github.com/www42/AFT/blob/5e0f3e5e76a66736eaf06845fafd9ce035d73b30/Profilbild.jpg" width="200"/>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
+<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-700)
 
-[GitHub](https://github.com/www42)
+[Check out my GitHub repos](https://github.com/www42)
 
-[linkedIn](https://linkedin.com/in/tjkkll)
+[Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
-[Twitter](https://twitter.com/tjkkll)
+[Follow me on Twitter](https://twitter.com/tjkkll)
 
-[Blog](https://blog.az.training)
+[My Blog](https://blog.az.training)
+
+
+---
+
+[Top](#az-700-designing-and-implementing-microsoft-azure-networking-solutions)
