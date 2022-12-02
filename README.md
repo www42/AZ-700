@@ -26,9 +26,9 @@ Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](h
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#az-700-designing-and-implementing-microsoft-azure-networking-solutions)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?D92A8BBDD191514070)
 
-[Claim your Badge! (Microsoft Learn)](#az-700-designing-and-implementing-microsoft-azure-networking-solutions)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=5MKLQL&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
