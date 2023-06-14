@@ -6,14 +6,9 @@
 
 ---
 
-
-
 ## AZ-700 at Microsoft Learn
 
 Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
-
-
-
 
 
 ## AZ-700 Labs
@@ -27,14 +22,6 @@ Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](h
 [AZ-700 Labs Instructions](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
 [AZ-700 GitHub Repo](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
-
-
----
-
-
-
-
-
 
 
 
