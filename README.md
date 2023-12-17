@@ -10,19 +10,26 @@ Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](h
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
-1. Sign in with your Skillable account 
-2. Register with Training Key
+Sign in with your Skillable account - if you have already an account
+
+or
+
+Register with Training Key (email)
 
 
-[AZ-700 Labs Instructions](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
+[AZ-700 Labs Instructions Step by Step](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
 [AZ-700 GitHub Repo](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
+
+[AZ-700 Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulations%20-%20Designing%20and%20implementing%20Microsoft%20Azure%20networking%20solutions)
+
+[AZ-700 Exam Free Practice Assessment](https://learn.microsoft.com/credentials/certifications/exams/az-700/practice/assessment?assessment-type=practice&assessmentId=70)
 
 
 
 ## Useful links
 
-[Microsoft Training and Certification](https://aka.ms/traincertposter)
+[Microsoft Training and Certification (Poster)](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
