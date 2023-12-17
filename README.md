@@ -41,6 +41,9 @@ Register with Training Key (email)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
+[Azure Virtual Network Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/)
+
+[Azure Virtual Network IP Services Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/)
 
 ##  Your Trainer
 #### Thomas Jäkel
