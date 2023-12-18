@@ -10,9 +10,9 @@ Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](h
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
-Sign in with your Skillable account - if you have already an account
+Sign in with your Skillable account (if you have already an account)
 
-or
+**or**
 
 Register with Training Key (email)
 
