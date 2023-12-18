@@ -1,6 +1,10 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 
+[Get the presentation](pdf)
+
+
+
 ## AZ-700 at Microsoft Learn
 
 Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
@@ -44,6 +48,11 @@ Register with Training Key (email)
 [Azure Virtual Network Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/)
 
 [Azure Virtual Network IP Services Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/)
+
+[VPN Gateway Documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
+
+
+
 
 ##  Your Trainer
 #### Thomas Jäkel
