@@ -49,7 +49,12 @@ Register with Training Key (email)
 
 [Azure Virtual Network IP Services Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/)
 
+[Azure NAT Gateway Documentation](https://learn.microsoft.com/en-us/azure/nat-gateway/)
+
+[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
+
 [VPN Gateway Documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
+
 
 
 
