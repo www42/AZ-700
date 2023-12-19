@@ -21,7 +21,7 @@ Sign in with your Skillable account (if you have already an account)
 Register with Training Key (email)
 
 
-[AZ-700 Labs Instructions Step by Step](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
+[AZ-700 Lab Instructions Step by Step](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
 [AZ-700 GitHub Repo](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
 
