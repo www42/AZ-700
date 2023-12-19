@@ -55,6 +55,8 @@ Register with Training Key (email)
 
 [VPN Gateway Documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
 
+[Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
+
 
 
 
