@@ -1,6 +1,10 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 
+[Claim your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=7K974D)
+
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AC62CDB25205989176)
+
 [Get the presentation](pdf)
 
 
