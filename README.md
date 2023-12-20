@@ -61,6 +61,8 @@ Register with Training Key (email)
 
 [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
 
+[Azure Orphaned Resources v2.0](https://github.com/dolevshor/azure-orphan-resources)
+
 
 
 
