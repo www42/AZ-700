@@ -1,14 +1,6 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 
-[Claim your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=7K974D)
-
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AC62CDB25205989176)
-
-[Get the presentation](pdf)
-
-
-
 ## AZ-700 at Microsoft Learn
 
 Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
@@ -73,6 +65,7 @@ Register with Training Key (email)
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
 <a href="https://www.credly.com/badges/45225cf5-ede7-45d2-8ac6-b5a22315679c/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
 <a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+<a href="https://www.credly.com/badges/a8dcac54-6f2e-4787-9a75-dfa154355b49/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-750-students-reached.png" width="130"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
