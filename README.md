@@ -29,6 +29,10 @@ Register with Training Key (email)
 
 ## Useful links
 
+[AWS to Azure services comparison](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
+
+[Microsoft Applied Skills](https://github.com/www42/apl)
+
 [Microsoft Training and Certification (Poster)](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
