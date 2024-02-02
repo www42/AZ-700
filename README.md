@@ -1,6 +1,15 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 
+
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?C2945C37A207092439)
+
+[Claim your badge!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VJG2XQ)
+
+[Get the presentation](pdf)
+
+---
+
 ## AZ-700 at Microsoft Learn
 
 Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
