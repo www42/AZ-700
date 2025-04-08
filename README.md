@@ -119,22 +119,24 @@ Modules in this Learning Path:
 ## Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/45225cf5-ede7-45d2-8ac6-b5a22315679c/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
-<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
-<a href="https://www.credly.com/badges/a8dcac54-6f2e-4787-9a75-dfa154355b49/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-750-students-reached.png" width="130"/></a>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150">
+<img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
+<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
+<a href="https://https://www.credly.com/badges/8ef5f8fb-6b84-4223-add8-4938096c67b2"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-solutions-architect-associate.png" width=100></a>
+<a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
+[My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-700)
+[My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
+
+[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
 [Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
-
-[My Blog](https://blog.az.training)
 
 
 ---
