@@ -11,61 +11,90 @@
 
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
+<!--
+# Seminar 09.04. - 11.04 2024
+
+[Give Feedback]()
+
+[Grab your badge]()
+
+[Get the presentation](pdf/)
+
+<br>
+-->
 
 
-
-## AZ-700 at Microsoft Learn
+## Learning Path
 
 Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions][LP1]
 
 Modules in this Learning Path:
-- [Module 1 Introduction to Azure Virtual Networks][Mod1]
-- [Module 2 Design and implement hybrid networking][Mod2]
-- [Module 3 Design and implement Azure ExpressRoute][Mod3]
-- [Module 4 Load balancing non-HTTPS traffic in Azure][Mod4]
-- [Module 5 Load balancing HTTPS traffic in Azure][Mod5]
-- [Module 6 Design and implement network security][Mod6]
-- [Module 7 Design and implement private access to Azure services][Mod7]
-- [Module 8 Design and implement network monitoring][Mod8]
+- Module 1 [Introduction to Azure Virtual Networks][Mod1]
+- Module 2 [Design and implement hybrid networking][Mod2]
+- Module 3 [Design and implement Azure ExpressRoute][Mod3]
+- Module 4 [Load balancing non-HTTPS traffic in Azure][Mod4]
+- Module 5 [Load balancing HTTPS traffic in Azure][Mod5]
+- Module 6 [Design and implement network security][Mod6]
+- Module 7 [Design and implement private access to Azure services][Mod7]
+- Module 8 [Design and implement network monitoring][Mod8]
 
 
 
-## AZ-700 Labs
+### Labs
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
-Sign in with your Skillable account (if you have already an account)
+1. Sign in with your Skillable account 
+2. Register with Training Key
 
-**or**
+<!--[Go Deploy](https://lms.godeploy.it) -->
 
-Register with Training Key (email)
+[GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
+
+[Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
+
+[Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulations%20-%20Designing%20and%20implementing%20Microsoft%20Azure%20networking%20solutions)
+
+<br>
+
+## Certification
+
+|   |   |
+| - | - |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/> | [Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/) |
 
 
-[AZ-700 Lab Instructions Step by Step](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
+[Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=70&practice-assessment-type=certification)
 
-[AZ-700 GitHub Repo](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
+<br>
 
-[AZ-700 Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulations%20-%20Designing%20and%20implementing%20Microsoft%20Azure%20networking%20solutions)
 
-[AZ-700 Exam Free Practice Assessment](https://learn.microsoft.com/credentials/certifications/exams/az-700/practice/assessment?assessment-type=practice&assessmentId=70)
+## New: Microsoft Applied Skills
+
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+
+<br>
+
+
+## Microsoft Learn
+
+[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
+
+[Microsoft Learn](https://learn.microsoft.com)
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
+
+<br>
+
 
 
 
 ## Useful links
-
-[AWS to Azure services comparison](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
-
-[Microsoft Applied Skills](https://github.com/www42/apl)
-
-[Microsoft Training and Certification (Poster)](https://aka.ms/traincertposter)
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-
-[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
-
-[Azure Blog](https://azure.microsoft.com/en-us/blog/)
-
-[Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
@@ -84,10 +113,10 @@ Register with Training Key (email)
 [Azure Orphaned Resources v2.0](https://github.com/dolevshor/azure-orphan-resources)
 
 
+<br>
 
 
-
-##  Your Trainer
+## Your Trainer
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
