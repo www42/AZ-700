@@ -1,3 +1,14 @@
+[LP1]: https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/
+[Mod1]: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/
+[Mod2]: https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/
+[Mod3]: https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/
+[Mod4]: https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/
+[Mod5]: https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/
+[Mod6]: https://learn.microsoft.com/en-us/training/modules/design-implement-network-security-monitoring/
+[Mod7]: https://learn.microsoft.com/en-us/training/modules/design-implement-private-access-to-azure-services/
+[Mod8]: https://learn.microsoft.com/en-us/training/modules/design-implement-network-monitoring/
+
+
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 
@@ -5,7 +16,18 @@
 
 ## AZ-700 at Microsoft Learn
 
-Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
+Lerning Path [Designing and Implementing Microsoft Azure Networking Solutions][LP1]
+
+Modules in this Learning Path:
+- [Module 1 Introduction to Azure Virtual Networks][Mod1]
+- [Module 2 Design and implement hybrid networking][Mod2]
+- [Module 3 Design and implement Azure ExpressRoute][Mod3]
+- [Module 4 Load balancing non-HTTPS traffic in Azure][Mod4]
+- [Module 5 Load balancing HTTPS traffic in Azure][Mod5]
+- [Module 6 Design and implement network security][Mod6]
+- [Module 7 Design and implement private access to Azure services][Mod7]
+- [Module 8 Design and implement network monitoring][Mod8]
+
 
 
 ## AZ-700 Labs
