@@ -104,13 +104,13 @@ Modules in this Learning Path:
 
 [Azure NAT Gateway Documentation](https://learn.microsoft.com/en-us/azure/nat-gateway/)
 
-[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
-
 [VPN Gateway Documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
 
 [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
 
-[Azure Orphaned Resources v2.0](https://github.com/dolevshor/azure-orphan-resources)
+[Azure Orphaned Resources Workbook](https://github.com/dolevshor/azure-orphan-resources)
+
+[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
 
 
 <br>
