@@ -12,7 +12,7 @@
 # AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 
 <!--
-# Seminar 09.04. - 11.04 2024
+# Seminar 07.07. - 09.07.2024
 
 [Give Feedback]()
 
