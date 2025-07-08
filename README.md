@@ -112,6 +112,7 @@ Modules in this Learning Path:
 
 [Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
 
+[Routing Basics Azure Virtual WAN - YouTube](https://www.youtube.com/watch?v=NwpauLcyAYI)
 
 <br>
 
