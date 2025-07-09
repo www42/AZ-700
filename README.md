@@ -117,6 +117,10 @@ Modules in this Learning Path:
 
 [Routing Basics Azure Virtual WAN - YouTube](https://www.youtube.com/watch?v=NwpauLcyAYI)
 
+[Azure SLAs](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1)
+
+[Tutorial: Azure DDoS Protection simulation testing](https://learn.microsoft.com/en-us/azure/ddos-protection/test-through-simulations#azure-ddos-simulation-testing-policy)
+
 <br>
 
 
