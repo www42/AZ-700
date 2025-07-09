@@ -15,6 +15,9 @@
 
 [Get the presentation](pdf/)
 
+Give Feedback
+
+Grab your badge
 <!--
 [Give Feedback]()
 
