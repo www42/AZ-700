@@ -15,13 +15,10 @@
 
 [Get the presentation](pdf/)
 
-Give Feedback
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?7A3C209BE224551445)
 
-Grab your badge
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=V9Y2Q7)
 <!--
-[Give Feedback]()
-
-[Grab your badge]()
 -->
 
 <br>
