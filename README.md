@@ -22,9 +22,9 @@ Grab your badge
 [Give Feedback]()
 
 [Grab your badge]()
+-->
 
 <br>
--->
 
 
 ## Learning Path
